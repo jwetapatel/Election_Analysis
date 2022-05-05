@@ -32,7 +32,8 @@ The winner of the election, winning vote count, and winning percentage of votes 
 
 Here we can see the updated code image :
 
-![Deliverable 1 Upadated code](https://user-images.githubusercontent.com/96400887/166997953-7269411c-8835-429c-a98e-dc3e57d614c3.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/96400887/167004984-f28aaeee-955b-4d9f-952d-0372f9414289.png)
+
 
 
 
