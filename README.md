@@ -1,6 +1,6 @@
 # Election_Analysis
 
-# Project Overview
+# Overview of Election Audit
 
 A Colorado Board of Elections employee assigned the following tasks to complete the election audit of a recent local congressional election.
 
@@ -12,11 +12,11 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 6. Determine the county with the highest turnout.
 7. Calculate the percentage of votes from each county out of the total.
 
-## Resources
+# Resources
 
 Data Source: election_results.csv
-Software: Python 3.7.6, Visual Studio Code 1.64
 
+Software: Python 3.7.6, Visual Studio Code 1.64
 
 
 
@@ -51,7 +51,7 @@ Upadated code Shown as below :
 
 ![Deliverable 2  1 updated code](https://user-images.githubusercontent.com/96400887/167008767-59cf4ccd-6a1e-4889-99cc-8fa0cf55b01c.png)
 
-#Election-Audit Results
+# Election-Audit Results
 
 As per above analysis of the election results shows that:
 
