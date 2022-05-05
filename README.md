@@ -17,6 +17,40 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 Data Source: election_results.csv
 Software: Python 3.7.6, Visual Studio Code 1.64
 
+
+##Election-Audit Results
+
+# Deliverable 1 Analysis
+
+The election commission has requested some additional data to complete the audit so we upadated our PyPoll code as per below requirements:
+
+Total Votes in the election are printed to the terminal.
+
+Each candidate’s total votes and percentage of votes are printed to the terminal.
+
+The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+
+Here we can see the updated code image :
+
+![Deliverable 1 Upadated code](https://user-images.githubusercontent.com/96400887/166997953-7269411c-8835-429c-a98e-dc3e57d614c3.png)
+
+
+
+County Results after upadeted Deliverable 1 code :
+
+Each county and its total vote count are printed to the terminal. 
+
+Each county and its percentage of the total votes are printed to the terminal.
+
+The county with the largest number of voters is printed to the terminal.
+
+Here we can see the image of result :
+
+![Deliverable 1 result](https://user-images.githubusercontent.com/96400887/166999041-713d9a86-f6f8-4cfe-bd19-26aeca025b80.png)
+
+# Deliverable 2 Analysis
+
+
 ## Summary
 
 The analysis of the election shows that:
@@ -49,5 +83,5 @@ The county with the largest voter turnout was:
 
 Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 Election Results Snapshot
-![Election_result](https://user-images.githubusercontent.com/96400887/166985669-644bf101-2efa-4f04-a594-c83f3f67da15.png)
+
 
