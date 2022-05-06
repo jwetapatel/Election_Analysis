@@ -14,15 +14,15 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 # Resources
 
-Data Source: election_results.csv
+- Data Source: election_results.csv
 
-Software: Python 3.7.6, Visual Studio Code 1.64
+- Software: Python 3.7.6, Visual Studio Code 1.64
 
 
 
 ## Deliverable 1 Analysis
 
-- The election commission has requested some additional data to complete the audit so we upadated our PyPoll code as per below requirements:
+ The election commission has requested some additional data to complete the audit so we upadated our PyPoll code as per below requirements:
 
 - Total Votes in the election are printed to the terminal.
 
@@ -30,7 +30,7 @@ Software: Python 3.7.6, Visual Studio Code 1.64
 
 - The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
 
-- Here we can see the some updated code image :
+ Here we can see the some updated code image :
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/96400887/167004984-f28aaeee-955b-4d9f-952d-0372f9414289.png)
 
